@@ -3,8 +3,9 @@ I’m a second year student studying computer science at the University of Roche
 
 
 ## Where to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-mcgreen-50690323a/) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmcgreen_jacob&style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&color=white) ![Static Badge](https://img.shields.io/badge/My%20Website-black?style=for-the-badge&logoSize=black&link=https%3A%2F%2Fjacobmcgreen.com%2F)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-mcgreen-50690323a/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mcgreen_jacob)
+[![My Website](https://img.shields.io/badge/My%20Website-black?style=for-the-badge&logo=none&logoColor=white)](https://jacobmcgreen.com/)
 
 
 # Tech Stack:
