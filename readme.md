@@ -1,5 +1,5 @@
 # About Me:
-I’m a second year student studying computer science at the University of Rochester<br>
+I’m a third year student studying computer science at the University of Rochester<br>
 
 
 ## Where to reach me:
